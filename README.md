@@ -2,17 +2,9 @@
 
 ## Getting Started
 
+This Accountability Ladder was created by a joint committee of JavaScript-focused community members and was forked from this.dot's repo: https://github.com/thisdot/accountability-ladder 
+
 **Goals for this Accountability Ladder:** To protect the integrity of our community by having a set of standards outlining proper practices to deal with code of conduct violations at conferences and in open source communities.  Our hope is that it will help secure a safe and inclusive space for everyone.
-
-**How to be Awesome Articles:**
-
-- How Men Can Become Better Allies to Women  https://hbr.org/2018/10/how-men-can-become-better-allies-to-women 
-- 10 Steps to Becoming an Effective Ally to the LGBT Community  https://myhs.ucdmc.ucdavis.edu/documents/41620/0/10+Steps+for+Becoming+an+Effective+Ally.pdf/4d2c30d1-e062-4b99-ba4a-3c72b62d416e  
-- Casual Racism    https://itstopswithme.humanrights.gov.au/what-can-you-do/speak/casual-racism  
-- How Do I Ally?: Being an Ally to Women In Technology   https://medium.com/@hadrad1000/how-do-i-ally-being-an-ally-to-women-in-technology-73b70fb86a98 
-- Resolving Conflicts  https://projectinclude.org/resolving_conflicts
-- https://Betterallies.com - a book about everyday actions to create inclusive, engaging workplaces
-- www.guidetoallyship.com - an ever-evolving and growing open source guide meant to provide you with the resources for becoming a more effective ally.
 
 **Reporting**, We recommend groups use Beacon which will be out shortly. https://www.gofundme.com/coc-beacon
 
@@ -79,3 +71,15 @@ In any of the following circumstances, the person in charge should turn over the
 **Consequence:** Involve law enforcement and suggest violator be banned for life.
 
 **Rehabilitation:**  If rehabilitation makes sense in these cases and the perpetrator is not banned for life then the perpetrator and the committee should work together to determine an appropriate plan.  Then when it is completed the perpetrator should report back in order to apply to be allowed back into the community.  
+
+**Further reading:**
+
+**How to be Awesome Articles:**
+
+- How Men Can Become Better Allies to Women  https://hbr.org/2018/10/how-men-can-become-better-allies-to-women 
+- 10 Steps to Becoming an Effective Ally to the LGBT Community  https://myhs.ucdmc.ucdavis.edu/documents/41620/0/10+Steps+for+Becoming+an+Effective+Ally.pdf/4d2c30d1-e062-4b99-ba4a-3c72b62d416e  
+- Casual Racism    https://itstopswithme.humanrights.gov.au/what-can-you-do/speak/casual-racism  
+- How Do I Ally?: Being an Ally to Women In Technology   https://medium.com/@hadrad1000/how-do-i-ally-being-an-ally-to-women-in-technology-73b70fb86a98 
+- Resolving Conflicts  https://projectinclude.org/resolving_conflicts
+- https://Betterallies.com - a book about everyday actions to create inclusive, engaging workplaces
+- www.guidetoallyship.com - an ever-evolving and growing open source guide meant to provide you with the resources for becoming a more effective ally.
