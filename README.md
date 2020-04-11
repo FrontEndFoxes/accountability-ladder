@@ -21,9 +21,7 @@ Violations include but are not limited to:
 - Microaggressions - Everyday verbal, nonverbal, and environmental slights, snubs, or insults, whether intentional or unintentional, which communicate hostile, derogatory, or negative messages to target person(s) based solely upon their marginalized group membership. 
 - Pattern (3 or more) of offhand comments that create atmospheres that are not productive - emojis, comments, or attitudes that are consistently perceived as *negative and unproductive* within in the community that may or may not be targeted directly at any one person. 
 
-**Consequence:** Warning and given literature on how to be an ally. 
-
-**Rehabilitation:** Read literature on how to be an ally.  
+**Consequence:** Warning and given literature on how to be an ally.
 
 ### Level 2
 Violations include but are not limited to:
@@ -36,8 +34,6 @@ Violations include but are not limited to:
 
 **Consequence:** Not welcome for 3 months from incident
 
-**Rehabilitation:** A quiz on what you have learned from the reading and an appropriate online training. 
-
 ### Level 3 - Physical offenses and sexual harassment 
 Violations include but are not limited to:
 
@@ -48,11 +44,7 @@ Violations include but are not limited to:
 - Intimidation and/or abuse of power 
 - Working outside a previously defined governance structure to force someone to do something that makes them uncomfortable or compromises their integrity 
 
-
-**Consequence:** Not welcome for 6 - 12 months from incident based on severity of the incident.  Work or school can be notified depending on circumstances.  
-
-**Rehabilitation:** The perpetrator needs to ask the adult version of “How can I help?” and take ownership to come up with an agreement with the committee to make things right with the victim.  Then the perpetrator needs to report back on what happened.   
-
+**Consequence:** Banned from the community 
 
 ### Level 4 - Criminal conduct (whether or not a criminal case is prosecuted)
 Violations include but are not limited to:
@@ -67,9 +59,7 @@ Violations include but are not limited to:
 
 In any of the following circumstances, the person in charge should turn over the appropriate information to the police.  Do not try to deal with it yourself.  Work or school is notified.  
 
-**Consequence:** Involve law enforcement and suggest violator be banned for life.
-
-**Rehabilitation:**  If rehabilitation makes sense in these cases and the perpetrator is not banned for life then the perpetrator and the committee should work together to determine an appropriate plan.  Then when it is completed the perpetrator should report back in order to apply to be allowed back into the community.  
+**Consequence:** Involve law enforcement and ban violator permanently.
 
 **Further reading:**
 
