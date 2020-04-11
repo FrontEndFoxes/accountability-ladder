@@ -6,8 +6,7 @@ This Accountability Ladder was created by a joint committee of JavaScript-focuse
 
 **Goals for this Accountability Ladder:** To protect the integrity of our community by having a set of standards outlining proper practices to deal with code of conduct violations at conferences and in open source communities.  Our hope is that it will help secure a safe and inclusive space for everyone.
 
-**Reporting**, We recommend groups use Beacon which will be out shortly. https://www.gofundme.com/coc-beacon
-
+**Reporting**, Please use our form to report an offense, either anonymously or not: https://info831614.typeform.com/to/WxXCJg
 
 ## The Ladder: Level 1 to Level 4
 
